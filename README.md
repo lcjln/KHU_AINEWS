@@ -1,2 +1,3 @@
 # KHU_AINEWS
-Using Python to make news automatically
+
+파이썬을 활용하여 1일 1뉴스쇼츠 자동 제작
